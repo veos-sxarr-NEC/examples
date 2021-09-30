@@ -1,0 +1,32 @@
+This document provides the steps to build new MPI program for VE architecture.
+
+a) Self-Build and Defult Architecture:
+
+1.	Move to the project directory
+$ cd <project_directory_path>
+
+2.	To set up the MPI compilation environment, execute the following script (This step execution is only applicable for MPI programs)
+$ source /opt/nec/ve/mpi/<version>/bin/necmpivars.sh 
+Where{version} is the directory name corresponding to the version of NEC MPI you use.
+
+3.	Execute autoreconf
+$ /opt/nec/ve/bin/autoreconf –isf
+
+4.	Execute configure to generate Makefile
+$ ./configure CC=mpicc CXX=mpic++ FC=mpifort AR=/opt/nec/ve/bin/nar
+
+b)Cross Build and Setting Architecture for VE
+
+1.	Move to the project directory
+$ cd <project_directory_path>
+
+2.	To set up the MPI compilation environment, execute the following script (This step execution is only applicable for MPI programs)
+$ source /opt/nec/ve/mpi/<version>/bin/necmpivars.sh 
+Where{version} is the directory name corresponding to the version of NEC MPI you use.
+
+3.	Execute autoreconf
+$ /opt/nec/ve/bin/autoreconf –isf
+
+4.	Execute configure to generate Makefile
+$ ./configure --host=ve-nec-linux
+

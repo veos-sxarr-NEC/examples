@@ -1,0 +1,114 @@
+autotools_test_c.o: autotools_test_c.c
+autotools_test_c.o: /opt/nec/ve/ncc/2.2.2/include/stdc-predef.h
+autotools_test_c.o: /opt/nec/ve/include/stdio.h
+autotools_test_c.o: /opt/nec/ve/include/features.h
+autotools_test_c.o: /opt/nec/ve/ncc/2.2.2/include/stdc-predef.h
+autotools_test_c.o: /opt/nec/ve/include/sys/cdefs.h
+autotools_test_c.o: /opt/nec/ve/include/bits/wordsize.h
+autotools_test_c.o: /opt/nec/ve/include/gnu/stubs.h
+autotools_test_c.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_c.o: /opt/nec/ve/ncc/2.2.2/include/necvals.h
+autotools_test_c.o: /opt/nec/ve/ncc/2.2.2/include/stdarg.h
+autotools_test_c.o: /opt/nec/ve/include/bits/types.h
+autotools_test_c.o: /opt/nec/ve/include/bits/wordsize.h
+autotools_test_c.o: /opt/nec/ve/include/bits/typesizes.h
+autotools_test_c.o: /opt/nec/ve/include/libio.h
+autotools_test_c.o: /opt/nec/ve/include/_G_config.h
+autotools_test_c.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_c.o: /opt/nec/ve/include/wchar.h
+autotools_test_c.o: /opt/nec/ve/include/bits/stdio_lim.h
+autotools_test_c.o: /opt/nec/ve/include/bits/sys_errlist.h
+autotools_test_c.o: /opt/nec/ve/ncc/2.2.2/include/stdlib.h
+autotools_test_c.o: /opt/nec/ve/include/stdlib.h
+autotools_test_c.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_c.o: /opt/nec/ve/include/bits/waitflags.h
+autotools_test_c.o: /opt/nec/ve/include/bits/waitstatus.h
+autotools_test_c.o: /opt/nec/ve/include/endian.h
+autotools_test_c.o: /opt/nec/ve/include/bits/endian.h
+autotools_test_c.o: /opt/nec/ve/include/bits/byteswap.h
+autotools_test_c.o: /opt/nec/ve/include/bits/byteswap-16.h
+autotools_test_c.o: /opt/nec/ve/include/sys/types.h
+autotools_test_c.o: /opt/nec/ve/include/time.h
+autotools_test_c.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_c.o: /opt/nec/ve/include/sys/select.h
+autotools_test_c.o: /opt/nec/ve/include/bits/select.h
+autotools_test_c.o: /opt/nec/ve/include/bits/sigset.h
+autotools_test_c.o: /opt/nec/ve/include/time.h
+autotools_test_c.o: /opt/nec/ve/include/bits/time.h
+autotools_test_c.o: /opt/nec/ve/include/sys/sysmacros.h
+autotools_test_c.o: /opt/nec/ve/include/bits/pthreadtypes.h
+autotools_test_c.o: /opt/nec/ve/ncc/2.2.2/include/alloca.h
+autotools_test_c.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_c.o: /opt/nec/ve/include/bits/stdlib-float.h
+autotools_test_c.o: /opt/nec/ve/include/unistd.h
+autotools_test_c.o: /opt/nec/ve/include/bits/posix_opt.h
+autotools_test_c.o: /opt/nec/ve/include/bits/environments.h
+autotools_test_c.o: /opt/nec/ve/include/bits/wordsize.h
+autotools_test_c.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_c.o: /opt/nec/ve/include/bits/confname.h
+autotools_test_c.o: /opt/nec/ve/include/getopt.h
+autotools_test_c.o: /opt/nec/ve/mpi/2.7.0/include/mpi.h
+autotools_test_c.o: /opt/nec/ve/include/sys/syscall.h
+autotools_test_c.o: /opt/nec/ve/include/asm/unistd.h
+autotools_test_c.o: /opt/nec/ve/include/asm/unistd_64.h
+autotools_test_c.o: /opt/nec/ve/include/bits/syscall.h
+autotools_test_c.o: /opt/nec/ve/include/sys/mman.h
+autotools_test_c.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_c.o: /opt/nec/ve/include/bits/mman.h
+autotools_test_c.c:
+/opt/nec/ve/ncc/2.2.2/include/stdc-predef.h:
+/opt/nec/ve/include/stdio.h:
+/opt/nec/ve/include/features.h:
+/opt/nec/ve/ncc/2.2.2/include/stdc-predef.h:
+/opt/nec/ve/include/sys/cdefs.h:
+/opt/nec/ve/include/bits/wordsize.h:
+/opt/nec/ve/include/gnu/stubs.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/ncc/2.2.2/include/necvals.h:
+/opt/nec/ve/ncc/2.2.2/include/stdarg.h:
+/opt/nec/ve/include/bits/types.h:
+/opt/nec/ve/include/bits/wordsize.h:
+/opt/nec/ve/include/bits/typesizes.h:
+/opt/nec/ve/include/libio.h:
+/opt/nec/ve/include/_G_config.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/include/wchar.h:
+/opt/nec/ve/include/bits/stdio_lim.h:
+/opt/nec/ve/include/bits/sys_errlist.h:
+/opt/nec/ve/ncc/2.2.2/include/stdlib.h:
+/opt/nec/ve/include/stdlib.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/include/bits/waitflags.h:
+/opt/nec/ve/include/bits/waitstatus.h:
+/opt/nec/ve/include/endian.h:
+/opt/nec/ve/include/bits/endian.h:
+/opt/nec/ve/include/bits/byteswap.h:
+/opt/nec/ve/include/bits/byteswap-16.h:
+/opt/nec/ve/include/sys/types.h:
+/opt/nec/ve/include/time.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/include/sys/select.h:
+/opt/nec/ve/include/bits/select.h:
+/opt/nec/ve/include/bits/sigset.h:
+/opt/nec/ve/include/time.h:
+/opt/nec/ve/include/bits/time.h:
+/opt/nec/ve/include/sys/sysmacros.h:
+/opt/nec/ve/include/bits/pthreadtypes.h:
+/opt/nec/ve/ncc/2.2.2/include/alloca.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/include/bits/stdlib-float.h:
+/opt/nec/ve/include/unistd.h:
+/opt/nec/ve/include/bits/posix_opt.h:
+/opt/nec/ve/include/bits/environments.h:
+/opt/nec/ve/include/bits/wordsize.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/include/bits/confname.h:
+/opt/nec/ve/include/getopt.h:
+/opt/nec/ve/mpi/2.7.0/include/mpi.h:
+/opt/nec/ve/include/sys/syscall.h:
+/opt/nec/ve/include/asm/unistd.h:
+/opt/nec/ve/include/asm/unistd_64.h:
+/opt/nec/ve/include/bits/syscall.h:
+/opt/nec/ve/include/sys/mman.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/include/bits/mman.h:

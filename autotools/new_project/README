@@ -1,0 +1,20 @@
+This document provides the steps to build new program for VE.
+
+Building a new program for VE
+To build a new program for VE, follow the mentioned steps:
+a)	Self-Build
+I.	Move to the project directory
+$ cd <project_directory_path>
+II.	Execute VE autoreconf
+$ /opt/nec/ve/bin/autoreconf -isf
+III.	Execute configure to generate Makefile
+$ . /configure
+b)	Cross Build
+I.	Move to the project directory
+$ cd <project_directory_path>
+II.	Execute VE autoreconf
+$/opt/nec/ve/bin/autoreconf -isf
+III.	Execute configure to generate Makefile
+$./configure --host=ve-nec-linux
+
+

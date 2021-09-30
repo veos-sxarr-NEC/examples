@@ -1,0 +1,9 @@
+# compile
+mkdir build
+cd build
+cmake -DCMAKE_TOOLCHAIN_FILE=/opt/nec/ve/share/cmake/toolchainVE.cmake ..
+make
+
+# run
+/opt/nec/ve/bin/ve_exec sample_bin
+

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8...3.13)
+project(app_project)
+enable_language(CXX)
+find_package(MPI REQUIRED)
+add_executable(test_mpi_bin MPI.cpp)

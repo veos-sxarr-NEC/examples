@@ -1,0 +1,10 @@
+# compile
+source /opt/nec/ve/mpi/<version>/bin/necmpivars.sh
+mkdir build
+cd build
+cmake -DCMAKE_TOOLCHAIN_FILE=/opt/nec/ve/share/cmake/toolchainVE-MPI.cmake ..
+make
+
+# run
+/opt/nec/ve/bin/mpirun -ve 0-1 -np 1 test_mpi_bin
+

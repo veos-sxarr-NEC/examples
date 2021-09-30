@@ -1,0 +1,4 @@
+bin_PROGRAMS = autotools_test_c autotools_test_cpp autotools_test_fortran
+autotools_test_c_SOURCES = autotools_test_c.c
+autotools_test_cpp_SOURCES = autotools_test_cpp.cpp
+autotools_test_fortran_SOURCES = autotools_test_fortran.f90

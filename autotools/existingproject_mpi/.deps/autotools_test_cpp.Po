@@ -1,0 +1,280 @@
+autotools_test_cpp.o: autotools_test_cpp.cpp
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/stdc-predef.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/cstdlib
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/necvals.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/stdarg.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/stdlib.h
+autotools_test_cpp.o: /opt/nec/ve/include/stdlib.h
+autotools_test_cpp.o: /opt/nec/ve/include/features.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/stdc-predef.h
+autotools_test_cpp.o: /opt/nec/ve/include/sys/cdefs.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/wordsize.h
+autotools_test_cpp.o: /opt/nec/ve/include/gnu/stubs.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/waitflags.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/waitstatus.h
+autotools_test_cpp.o: /opt/nec/ve/include/endian.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/endian.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/byteswap.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/types.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/wordsize.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/typesizes.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/byteswap-16.h
+autotools_test_cpp.o: /opt/nec/ve/include/xlocale.h
+autotools_test_cpp.o: /opt/nec/ve/include/sys/types.h
+autotools_test_cpp.o: /opt/nec/ve/include/time.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_cpp.o: /opt/nec/ve/include/sys/select.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/select.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/sigset.h
+autotools_test_cpp.o: /opt/nec/ve/include/time.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/time.h
+autotools_test_cpp.o: /opt/nec/ve/include/sys/sysmacros.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/pthreadtypes.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/alloca.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/stdlib-float.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/ctime
+autotools_test_cpp.o: /opt/nec/ve/include/time.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/time.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/timex.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/iomanip
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/istream
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/ostream
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/ios
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xlocnum
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/climits
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/limits.h
+autotools_test_cpp.o: /opt/nec/ve/include/limits.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/posix1_lim.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/local_lim.h
+autotools_test_cpp.o: /opt/nec/ve/include/linux/limits.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/posix2_lim.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/xopen_lim.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/stdio_lim.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/cmath
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/math.h
+autotools_test_cpp.o: /opt/nec/ve/include/math.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/huge_val.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/huge_valf.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/huge_vall.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/inf.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/nan.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/mathdef.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/mathcalls.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/mathcalls.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/mathcalls.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/_math_builtin.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/xtgmath.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xtr1common
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/cstddef
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/cstdio
+autotools_test_cpp.o: /opt/nec/ve/include/stdio.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_cpp.o: /opt/nec/ve/include/libio.h
+autotools_test_cpp.o: /opt/nec/ve/include/_G_config.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_cpp.o: /opt/nec/ve/include/wchar.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/stdio_lim.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/sys_errlist.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/streambuf
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xiosbase
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xlocale
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/cstring
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/string.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/stdexcept
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/exception
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xstddef
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/initializer_list
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xxexception
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xstring
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xmemory0
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/cstdint
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/stdint.h
+autotools_test_cpp.o: /opt/nec/ve/include/stdint.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/wchar.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/wordsize.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/limits
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/cfloat
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/float.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/necmath.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/cwchar
+autotools_test_cpp.o: /opt/nec/ve/include/wchar.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/new
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xutility
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/utility
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/iosfwd
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/type_traits
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xiter
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xscan
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/xatomic.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/xatomic0.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/string.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xmemory1
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/typeinfo
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/string.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xlocinfo
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/cctype
+autotools_test_cpp.o: /opt/nec/ve/include/ctype.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/clocale
+autotools_test_cpp.o: /opt/nec/ve/include/locale.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/stddef.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/locale.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xlocinfo.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/system_error
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/cerrno
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/errno.h
+autotools_test_cpp.o: /opt/nec/ve/include/errno.h
+autotools_test_cpp.o: /opt/nec/ve/include/bits/errno.h
+autotools_test_cpp.o: /opt/nec/ve/include/linux/errno.h
+autotools_test_cpp.o: /opt/nec/ve/include/asm/errno.h
+autotools_test_cpp.o: /opt/nec/ve/include/asm-generic/errno.h
+autotools_test_cpp.o: /opt/nec/ve/include/asm-generic/errno-base.h
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xlocmon
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/xloctime
+autotools_test_cpp.o: /opt/nec/ve/ncc/2.2.2/include/C++/iostream
+autotools_test_cpp.o: /opt/nec/ve/mpi/2.7.0/include/mpi.h
+autotools_test_cpp.cpp:
+/opt/nec/ve/ncc/2.2.2/include/stdc-predef.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/cstdlib:
+/opt/nec/ve/ncc/2.2.2/include/necvals.h:
+/opt/nec/ve/ncc/2.2.2/include/stdarg.h:
+/opt/nec/ve/ncc/2.2.2/include/stdlib.h:
+/opt/nec/ve/include/stdlib.h:
+/opt/nec/ve/include/features.h:
+/opt/nec/ve/ncc/2.2.2/include/stdc-predef.h:
+/opt/nec/ve/include/sys/cdefs.h:
+/opt/nec/ve/include/bits/wordsize.h:
+/opt/nec/ve/include/gnu/stubs.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/include/bits/waitflags.h:
+/opt/nec/ve/include/bits/waitstatus.h:
+/opt/nec/ve/include/endian.h:
+/opt/nec/ve/include/bits/endian.h:
+/opt/nec/ve/include/bits/byteswap.h:
+/opt/nec/ve/include/bits/types.h:
+/opt/nec/ve/include/bits/wordsize.h:
+/opt/nec/ve/include/bits/typesizes.h:
+/opt/nec/ve/include/bits/byteswap-16.h:
+/opt/nec/ve/include/xlocale.h:
+/opt/nec/ve/include/sys/types.h:
+/opt/nec/ve/include/time.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/include/sys/select.h:
+/opt/nec/ve/include/bits/select.h:
+/opt/nec/ve/include/bits/sigset.h:
+/opt/nec/ve/include/time.h:
+/opt/nec/ve/include/bits/time.h:
+/opt/nec/ve/include/sys/sysmacros.h:
+/opt/nec/ve/include/bits/pthreadtypes.h:
+/opt/nec/ve/ncc/2.2.2/include/alloca.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/include/bits/stdlib-float.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/ctime:
+/opt/nec/ve/include/time.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/include/bits/time.h:
+/opt/nec/ve/include/bits/timex.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/iomanip:
+/opt/nec/ve/ncc/2.2.2/include/C++/istream:
+/opt/nec/ve/ncc/2.2.2/include/C++/ostream:
+/opt/nec/ve/ncc/2.2.2/include/C++/ios:
+/opt/nec/ve/ncc/2.2.2/include/C++/xlocnum:
+/opt/nec/ve/ncc/2.2.2/include/C++/climits:
+/opt/nec/ve/ncc/2.2.2/include/limits.h:
+/opt/nec/ve/include/limits.h:
+/opt/nec/ve/include/bits/posix1_lim.h:
+/opt/nec/ve/include/bits/local_lim.h:
+/opt/nec/ve/include/linux/limits.h:
+/opt/nec/ve/include/bits/posix2_lim.h:
+/opt/nec/ve/include/bits/xopen_lim.h:
+/opt/nec/ve/include/bits/stdio_lim.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/cmath:
+/opt/nec/ve/ncc/2.2.2/include/math.h:
+/opt/nec/ve/include/math.h:
+/opt/nec/ve/include/bits/huge_val.h:
+/opt/nec/ve/include/bits/huge_valf.h:
+/opt/nec/ve/include/bits/huge_vall.h:
+/opt/nec/ve/include/bits/inf.h:
+/opt/nec/ve/include/bits/nan.h:
+/opt/nec/ve/include/bits/mathdef.h:
+/opt/nec/ve/include/bits/mathcalls.h:
+/opt/nec/ve/include/bits/mathcalls.h:
+/opt/nec/ve/include/bits/mathcalls.h:
+/opt/nec/ve/ncc/2.2.2/include/_math_builtin.h:
+/opt/nec/ve/ncc/2.2.2/include/xtgmath.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/xtr1common:
+/opt/nec/ve/ncc/2.2.2/include/C++/cstddef:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/cstdio:
+/opt/nec/ve/include/stdio.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/include/libio.h:
+/opt/nec/ve/include/_G_config.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/include/wchar.h:
+/opt/nec/ve/include/bits/stdio_lim.h:
+/opt/nec/ve/include/bits/sys_errlist.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/streambuf:
+/opt/nec/ve/ncc/2.2.2/include/C++/xiosbase:
+/opt/nec/ve/ncc/2.2.2/include/C++/xlocale:
+/opt/nec/ve/ncc/2.2.2/include/C++/cstring:
+/opt/nec/ve/ncc/2.2.2/include/string.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/stdexcept:
+/opt/nec/ve/ncc/2.2.2/include/C++/exception:
+/opt/nec/ve/ncc/2.2.2/include/C++/xstddef:
+/opt/nec/ve/ncc/2.2.2/include/C++/initializer_list:
+/opt/nec/ve/ncc/2.2.2/include/C++/xxexception:
+/opt/nec/ve/ncc/2.2.2/include/C++/xstring:
+/opt/nec/ve/ncc/2.2.2/include/C++/xmemory0:
+/opt/nec/ve/ncc/2.2.2/include/C++/cstdint:
+/opt/nec/ve/ncc/2.2.2/include/stdint.h:
+/opt/nec/ve/include/stdint.h:
+/opt/nec/ve/include/bits/wchar.h:
+/opt/nec/ve/include/bits/wordsize.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/limits:
+/opt/nec/ve/ncc/2.2.2/include/C++/cfloat:
+/opt/nec/ve/ncc/2.2.2/include/float.h:
+/opt/nec/ve/ncc/2.2.2/include/necmath.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/cwchar:
+/opt/nec/ve/include/wchar.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/new:
+/opt/nec/ve/ncc/2.2.2/include/C++/xutility:
+/opt/nec/ve/ncc/2.2.2/include/C++/utility:
+/opt/nec/ve/ncc/2.2.2/include/C++/iosfwd:
+/opt/nec/ve/ncc/2.2.2/include/C++/type_traits:
+/opt/nec/ve/ncc/2.2.2/include/C++/xiter:
+/opt/nec/ve/ncc/2.2.2/include/C++/xscan:
+/opt/nec/ve/ncc/2.2.2/include/xatomic.h:
+/opt/nec/ve/ncc/2.2.2/include/xatomic0.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/ncc/2.2.2/include/string.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/xmemory1:
+/opt/nec/ve/ncc/2.2.2/include/C++/typeinfo:
+/opt/nec/ve/ncc/2.2.2/include/string.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/xlocinfo:
+/opt/nec/ve/ncc/2.2.2/include/C++/cctype:
+/opt/nec/ve/include/ctype.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/clocale:
+/opt/nec/ve/include/locale.h:
+/opt/nec/ve/ncc/2.2.2/include/stddef.h:
+/opt/nec/ve/include/bits/locale.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/xlocinfo.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/system_error:
+/opt/nec/ve/ncc/2.2.2/include/C++/cerrno:
+/opt/nec/ve/ncc/2.2.2/include/errno.h:
+/opt/nec/ve/include/errno.h:
+/opt/nec/ve/include/bits/errno.h:
+/opt/nec/ve/include/linux/errno.h:
+/opt/nec/ve/include/asm/errno.h:
+/opt/nec/ve/include/asm-generic/errno.h:
+/opt/nec/ve/include/asm-generic/errno-base.h:
+/opt/nec/ve/ncc/2.2.2/include/C++/xlocmon:
+/opt/nec/ve/ncc/2.2.2/include/C++/xloctime:
+/opt/nec/ve/ncc/2.2.2/include/C++/iostream:
+/opt/nec/ve/mpi/2.7.0/include/mpi.h:
